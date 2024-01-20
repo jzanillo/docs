@@ -34,7 +34,7 @@ You can register a {% data variables.product.prodname_github_app %} under your p
 1. Click **New GitHub App**.
 1. Under "GitHub App name", enter a name for your app. You should choose a clear and short name. Your app's name (converted to lowercase, with spaces replaced by `-`, and with special characters replaced) will be shown in the user interface when your app takes an action. For example, `My APp Näme` would display as `my-app-name`.
 
-   The name must be unique across {% data variables.product.company_short %}. You cannot use same name as an existing GitHub account, unless it is your own user or organization name.
+   The name must be unique across {% data variables.product.company_short %}. You cannot use the same name as an existing GitHub account, unless it is your own user or organization name.
 
 1. Optionally, under "Description", type a description of your app. Users and organizations will see this description when they install your app.
 1. Under "Homepage URL", type the full URL to your app's website. If you don’t have a dedicated URL and your app's code is stored in a public repository, you can use that repository URL. Or, you can use the URL of the organization or user that owns the app.
